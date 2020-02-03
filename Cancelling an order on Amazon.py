@@ -10,10 +10,11 @@ HELP_BUTTON = (By.XPATH, "//a[contains(text(), 'Help')]")
 HELP_SEARCH = (By.XPATH, "//input[@id='helpsearch']")
 QUESTION = "Cancel order"
 SOLUTION = "Cancel Items or Orders"
-driver.get('https://www.amazon.com/')
+
 HELP_SEARCH_GO = (By.XPATH, "//input[@class='a-button-input']")
 HELP_CONTENT = (By.XPATH, "//div[@class='help-content']")
 
+driver.get('https://www.amazon.com/')
 driver.find_element(*HELP_BUTTON).click()
 find_solution =  driver.find_element(*HELP_SEARCH)
 find_solution.clear()
