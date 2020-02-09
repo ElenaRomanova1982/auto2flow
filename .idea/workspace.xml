@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07b5eca1-dbd5-4642-a4e5-078fa5a2d7e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HW2/Cancelling an order on Amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/Logged out user sees Sign in page when clicking Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW3/Locators Create amazon account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/Adding_product_to_the_cart_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/Cart_is_empty_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/amazon_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/support_search_amazon_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/tests/Adding_product_to_the_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/tests/Card_is_empty.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/tests/amazon_search_good.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/tests/support_search_amazon.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cancelling an order on Amazon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cancelling an order on Amazon.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Gherkin feature file" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,8 +35,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WlVFPhiotb1QkAyASb3UvaxWDe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/features/HW2" />
@@ -54,124 +69,87 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Cancelling an order on Amazon (1)">
-    <configuration name="Cancelling an order on Amazon (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Behave.Adding_product_to_the_cart.feature:Adding product to the cart">
+    <configuration name="Adding_product_to_the_cart.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cancelling an order on Amazon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/Adding_product_to_the_cart.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cancelling an order on Amazon (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Adding_product_to_the_cart.feature:Adding product to the cart" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/HW2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/HW2/Cancelling an order on Amazon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/Adding_product_to_the_cart.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Adding product to the cart" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cancelling an order on Amazon (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Card_is_empty.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/Cancelling an order on Amazon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/Card_is_empty.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Logged out user sees Sign in page when clicking Orders (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Card_is_empty.feature:Shopping cart is empty for unidentified user" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/Logged out user sees Sign in page when clicking Orders.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/Card_is_empty.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Shopping cart is empty for unidentified user" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Logged out user sees Sign in page when clicking Orders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="support_search_amazon.feature:User can search for support" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logged out user sees Sign in page when clicking Orders.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/support_search_amazon.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="User can search for support" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Cancelling an order on Amazon (1)" />
-        <item itemvalue="Python.Cancelling an order on Amazon (3)" />
-        <item itemvalue="Python.Cancelling an order on Amazon (2)" />
-        <item itemvalue="Python.Logged out user sees Sign in page when clicking Orders (1)" />
-        <item itemvalue="Python.Logged out user sees Sign in page when clicking Orders" />
+        <item itemvalue="Behave.Adding_product_to_the_cart.feature:Adding product to the cart" />
+        <item itemvalue="Behave.Adding_product_to_the_cart.feature" />
+        <item itemvalue="Behave.Card_is_empty.feature" />
+        <item itemvalue="Behave.Card_is_empty.feature:Shopping cart is empty for unidentified user" />
+        <item itemvalue="Behave.support_search_amazon.feature:User can search for support" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +166,7 @@
       <workItem from="1579724120235" duration="6384000" />
       <workItem from="1580428300929" duration="10861000" />
       <workItem from="1580536574716" duration="2161000" />
-      <workItem from="1580576514256" duration="9586000" />
+      <workItem from="1580576514256" duration="38737000" />
     </task>
     <task id="LOCAL-00001" summary="HW2#3">
       <created>1580681884445</created>
@@ -224,17 +202,26 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HW2#3" />
     <MESSAGE value="HW2#4" />
     <option name="LAST_COMMIT_MESSAGE" value="HW2#4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/automation2flow$support_search_amazon_feature.coverage" NAME="support_search_amazon.feature Coverage Results" MODIFIED="1581210046883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__1_.coverage" NAME="Cancelling an order on Amazon (1) Coverage Results" MODIFIED="1580766494074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders__1_.coverage" NAME="Logged out user sees Sign in page when clicking Orders (1) Coverage Results" MODIFIED="1580766205389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
+    <SUITE FILE_PATH="coverage/automation2flow$amazon_search_good_feature.coverage" NAME="amazon_search_good.feature Coverage Results" MODIFIED="1581017605278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$support_search_amazon_feature_User_can_search_for_support.coverage" NAME="support_search_amazon.feature:User can search for support Coverage Results" MODIFIED="1581210177440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature_Shopping_cart_is_empty_for_unidentified_user.coverage" NAME="Card_is_empty.feature:Shopping cart is empty for unidentified user Coverage Results" MODIFIED="1581221055230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__2_.coverage" NAME="Cancelling an order on Amazon (2) Coverage Results" MODIFIED="1580766409658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW2" />
     <SUITE FILE_PATH="coverage/automation2flow$sample_script.coverage" NAME="sample_script Coverage Results" MODIFIED="1580572861957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders.coverage" NAME="Logged out user sees Sign in page when clicking Orders Coverage Results" MODIFIED="1580699181017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation2flow$Adding_product_to_the_cart_feature.coverage" NAME="Adding_product_to_the_cart.feature Coverage Results" MODIFIED="1581227204559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__3_.coverage" NAME="Cancelling an order on Amazon (3) Coverage Results" MODIFIED="1580766474560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
-    <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__1_.coverage" NAME="Cancelling an order on Amazon (1) Coverage Results" MODIFIED="1580766494074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon.coverage" NAME="Cancelling an order on Amazon Coverage Results" MODIFIED="1580572944358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW2" />
-    <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders__1_.coverage" NAME="Logged out user sees Sign in page when clicking Orders (1) Coverage Results" MODIFIED="1580766205389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
-    <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__2_.coverage" NAME="Cancelling an order on Amazon (2) Coverage Results" MODIFIED="1580766409658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW2" />
+    <SUITE FILE_PATH="coverage/automation2flow$Adding_product_to_the_cart_feature_Adding_product_to_the_cart.coverage" NAME="Adding_product_to_the_cart.feature:Adding product to the cart Coverage Results" MODIFIED="1581227394611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$amazon_search_good_feature_User_can_search_for_the_product.coverage" NAME="amazon_search_good.feature:User can search for the product Coverage Results" MODIFIED="1581208775522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature.coverage" NAME="Card_is_empty.feature Coverage Results" MODIFIED="1581221110891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

@@ -10,7 +10,6 @@ HELP_BUTTON = (By.XPATH, "//a[contains(text(), 'Help')]")
 HELP_SEARCH = (By.XPATH, "//input[@id='helpsearch']")
 QUESTION = "Cancel order"
 SOLUTION = "Cancel Items or Orders"
-
 HELP_SEARCH_GO = (By.XPATH, "//input[@class='a-button-input']")
 HELP_CONTENT = (By.XPATH, "//div[@class='help-content']")
 
