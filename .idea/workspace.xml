@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07b5eca1-dbd5-4642-a4e5-078fa5a2d7e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW3/Locators Create amazon account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/Adding_product_to_the_cart_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/Cart_is_empty_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/amazon_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/support_search_amazon_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/tests/Adding_product_to_the_cart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/tests/Card_is_empty.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/tests/amazon_search_good.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/tests/support_search_amazon.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cancelling an order on Amazon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cancelling an order on Amazon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/Adding_product_to_the_cart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/Adding_product_to_the_cart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/Adding_product_to_the_cart_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/Adding_product_to_the_cart_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/Card_is_empty.feature" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/Card_is_empty.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/Cart_is_empty_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/Cart_is_empty_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/Locators Create amazon account.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/Locators Create amazon account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/support_search_amazon.feature" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/support_search_amazon.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW3/support_search_amazon_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/support_search_amazon_steps.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +37,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/HW2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/HW3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.gherkin.gui.PyBDDProjectConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW3" />
       <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW2" />
       <recent name="C:\Users\rev19\PycharmProjects\automation2flow\HW2" />
     </key>
@@ -166,7 +162,7 @@
       <workItem from="1579724120235" duration="6384000" />
       <workItem from="1580428300929" duration="10861000" />
       <workItem from="1580536574716" duration="2161000" />
-      <workItem from="1580576514256" duration="38737000" />
+      <workItem from="1580576514256" duration="39768000" />
     </task>
     <task id="LOCAL-00001" summary="HW2#3">
       <created>1580681884445</created>
