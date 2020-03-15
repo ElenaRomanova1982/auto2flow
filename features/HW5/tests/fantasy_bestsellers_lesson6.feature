@@ -1,6 +1,8 @@
 # Created by rev19 at 3/4/2020
-Feature: #Enter feature name here
+Feature: Test scenarios for finding bestsellers
   # Enter feature description here
 
-  Scenario: # Enter scenario name here
-    # Enter steps here
+  Scenario: Count best selers books on page
+    Given Open main Amazon page
+    When Search type fantasy book
+    Then Count how much Best Seller bages on page

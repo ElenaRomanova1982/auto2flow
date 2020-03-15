@@ -19,5 +19,8 @@ Feature: Goods count from the search
     When If first search result has price higher than 10
     When Open product page
     Then Add first item to the cart
-    #When If last search result has label "Best Seller"
-    #Then Add last good to the cart
+    When Search for product historic book
+    And Click search button
+    #When Search again
+    When If last search result has label "Best Seller"
+    Then Add last good to the cart

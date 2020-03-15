@@ -2,21 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07b5eca1-dbd5-4642-a4e5-078fa5a2d7e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/HW4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/environment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/steps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/steps/historic_books_bestsellers_steps_hw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/steps/prime_benefits_boxes_steps_hw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/tests/historic_books_bestsellers_hw4.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/HW4/tests/prime_benefits_boxes_hw4.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/closing_popup-l4.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/closing_popup_l4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/environment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/fire_tablets_menu_items_count-l4.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/Lesson4/fire_tablets_menu_items_count_steps-l4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW5/steps/bike_color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW5/tests/bike_color.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/steps/1_win_handle_refresh_ids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/steps/2_loop_ids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/steps/webstaurantstore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/tests/1_win_handle_refresh_ids.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/tests/2_loop_ids.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/HW_6/tests/webstaurantstore.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/Base_Class_Template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/steps/bestsellers_loops_ids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/steps/support_search_amazon_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/tests/bestsellers_loops_ids.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/les_7_page_object/tests/support_search_amazon.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/steps/Cart_is_empty_steps_id_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/steps/bike_color_explicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/steps/tooltip_explicit_wait_and_EC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/steps/windows_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/tests/Card_is_empty.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/tests/bike_color.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/tests/tooltip.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/less_6_id_waits_windows_handling/tests/windows_handling.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base_Class_Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base_Class_Template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Cancelling an order on Amazon.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW2/Cancelling an order on Amazon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Logged out user sees Sign in page when clicking Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW2/Logged out user sees Sign in page when clicking Orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/XPATH locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW2/XPATH locator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/Adding_product_to_the_cart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/Adding_product_to_the_cart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/Adding_product_to_the_cart_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/Adding_product_to_the_cart_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/Card_is_empty.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/Card_is_empty.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/Cart_is_empty_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/Cart_is_empty_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/Locators Create amazon account.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/Locators Create amazon account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/support_search_amazon.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/support_search_amazon.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/support_search_amazon_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW3/support_search_amazon_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW4/steps/historic_books_bestsellers_steps_hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW4/steps/historic_books_bestsellers_steps_hw4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW4/tests/historic_books_bestsellers_hw4.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW4/tests/historic_books_bestsellers_hw4.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/steps/bodysuits_colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/steps/bodysuits_colors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/steps/fantasy_bestsellers_lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/steps/fantasy_bestsellers_lesson6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/steps/fantasy_books_bestsellers.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/steps/fantasy_books_bestsellers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/steps/photoframe_color_size.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/steps/photoframe_color_size.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/tests/bodysuits_colors.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/tests/bodysuits_colors.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/tests/fantasy_bestsellers_lesson6.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/tests/fantasy_bestsellers_lesson6.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/tests/fantasy_books_bestsellers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/tests/fantasy_books_bestsellers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/HW5/tests/photoframe_color_size.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/HW5/tests/photoframe_color_size.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/sample_scrip_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/sample_scrip_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/steps/advanced_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/steps/advanced_context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/steps/advnced_context_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/steps/advnced_context_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/steps/dress_color_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/steps/dress_color_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/tests/advanced_context.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/tests/advanced_context.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Lessson5/tests/dress_color.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/Lessson5/tests/dress_color.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Gherkin feature file" />
         <option value="Python Script" />
+        <option value="Gherkin feature file" />
       </list>
     </option>
   </component>
@@ -43,23 +95,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/HW4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/les_7_page_object" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.gherkin.gui.PyBDDProjectConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW4\steps" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW4\tests" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\Lesson4" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW4" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\les_7_page_object\tests" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\les_7_page_object\steps" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\les_7_page_object" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\drivers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW4" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\Lesson4" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\les_7_page_object" />
       <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW3" />
-      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW2" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\HW_6" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\less_6_id_waits_windows_handling\steps" />
+      <recent name="C:\Users\rev19\PycharmProjects\automation2flow\features\less_6_id_waits_windows_handling\tests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,8 +126,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Behave.historic_books_bestsellers_hw4.feature:User can find historic books through the search,">
-    <configuration name="historic_books_bestsellers_hw4.feature:User can find historic books through the search," type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+  <component name="RunManager" selected="Behave.webstaurantstore.feature">
+    <configuration name="2_loop_ids.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +137,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/HW4/tests/historic_books_bestsellers_hw4.feature" />
-      <SCENRAIO_NAMES SCENRAIO_NAMES="User can find historic books through the search," />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/HW_6/tests/2_loop_ids.feature" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="historic_books_bestsellers_l4.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+    <configuration name="bestsellers_loops_ids.feature:Bestsellers menu loop" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +151,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/historic_books_bestsellers_l4.feature" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/les_7_page_object/tests/bestsellers_loops_ids.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Bestsellers menu loop" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="historic_books_bestsellers_l4.feature:User can find historic books through the search," type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+    <configuration name="webstaurantstore.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +166,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/historic_books_bestsellers_l4.feature" />
-      <SCENRAIO_NAMES SCENRAIO_NAMES="User can find historic books through the search," />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/HW_6/tests/webstaurantstore.feature" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_benefits_boxes_hw4.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+    <configuration name="webstaurantstore.feature:User can search for product, find products that include search name, add product to the cart, empty the cart" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,31 +180,40 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/HW4/tests/prime_benefits_boxes_hw4.feature" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/HW_6/tests/webstaurantstore.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="User can search for product, find products that include search name, add product to the cart, empty the cart" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_benefits_boxes_l4.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+    <configuration name="webstaurantstore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automation2flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/HW_6/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/prime_benefits_boxes_l4.feature" />
-      <option name="ADDITIONAL_ARGS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/HW_6/steps/webstaurantstore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Behave.historic_books_bestsellers_hw4.feature:User can find historic books through the search," />
-        <item itemvalue="Behave.prime_benefits_boxes_hw4.feature" />
-        <item itemvalue="Behave.historic_books_bestsellers_l4.feature:User can find historic books through the search," />
-        <item itemvalue="Behave.historic_books_bestsellers_l4.feature" />
-        <item itemvalue="Behave.prime_benefits_boxes_l4.feature" />
+        <item itemvalue="Behave.webstaurantstore.feature" />
+        <item itemvalue="Behave.webstaurantstore.feature:User can search for product, find products that include search name, add product to the cart, empty the cart" />
+        <item itemvalue="Python.webstaurantstore" />
+        <item itemvalue="Behave.bestsellers_loops_ids.feature:Bestsellers menu loop" />
+        <item itemvalue="Behave.2_loop_ids.feature" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +231,11 @@
       <workItem from="1580428300929" duration="10861000" />
       <workItem from="1580536574716" duration="2161000" />
       <workItem from="1580576514256" duration="41352000" />
-      <workItem from="1581821221865" duration="50979000" />
+      <workItem from="1581821221865" duration="72996000" />
+      <workItem from="1583168652016" duration="22188000" />
+      <workItem from="1583363231080" duration="59510000" />
+      <workItem from="1583941071777" duration="19238000" />
+      <workItem from="1584114364544" duration="18376000" />
     </task>
     <task id="LOCAL-00001" summary="HW2#3">
       <created>1580681884445</created>
@@ -217,27 +281,50 @@
     <SUITE FILE_PATH="coverage/automation2flow$closing_popup_feature.coverage" NAME="closing_popup.feature Coverage Results" MODIFIED="1582340189499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders__1_.coverage" NAME="Logged out user sees Sign in page when clicking Orders (1) Coverage Results" MODIFIED="1580766205389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/automation2flow$amazon_search_good_feature.coverage" NAME="amazon_search_good.feature Coverage Results" MODIFIED="1581017605278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$closing_popup_feature_User_can_close_popups_from_main_page__https___heritagedoorsandwindows_com__.coverage" NAME="closing_popup.feature:User can close popups from main page 'https://heritagedoorsandwindows.com/' Coverage Results" MODIFIED="1582340335280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$support_search_amazon_feature_User_can_search_for_support.coverage" NAME="support_search_amazon.feature:User can search for support Coverage Results" MODIFIED="1581210177440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_l4_feature_User_can_find_historic_books_through_the_search_.coverage" NAME="historic_books_bestsellers_l4.feature:User can find historic books through the search, Coverage Results" MODIFIED="1582912713946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__2_.coverage" NAME="Cancelling an order on Amazon (2) Coverage Results" MODIFIED="1580766409658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW2" />
+    <SUITE FILE_PATH="coverage/automation2flow$2_loop_ids_feature.coverage" NAME="2_loop_ids.feature Coverage Results" MODIFIED="1584048535035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$sample_script.coverage" NAME="sample_script Coverage Results" MODIFIED="1580572861957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders.coverage" NAME="Logged out user sees Sign in page when clicking Orders Coverage Results" MODIFIED="1580699181017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_hw4_feature_User_can_find_historic_books_through_the_search_.coverage" NAME="historic_books_bestsellers_hw4.feature:User can find historic books through the search, Coverage Results" MODIFIED="1582936452753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_hw4_feature_User_can_find_historic_books_through_the_search_.coverage" NAME="historic_books_bestsellers_hw4.feature:User can find historic books through the search, Coverage Results" MODIFIED="1583002979243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$bodysuits_colors_feature_Check_every_bodysuit_color_name.coverage" NAME="bodysuits_colors.feature:Check every bodysuit color name Coverage Results" MODIFIED="1583294937356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon.coverage" NAME="Cancelling an order on Amazon Coverage Results" MODIFIED="1580572944358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW2" />
     <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_l4_feature.coverage" NAME="historic_books_bestsellers_l4.feature Coverage Results" MODIFIED="1582870468672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_l4_feature___There_is_5_prime_benefits_boxes_displayed_on_amazonprime_page.coverage" NAME="prime_benefits_boxes_l4.feature:# There is 5 prime benefits boxes displayed on amazonprime page Coverage Results" MODIFIED="1582417487554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_hw4_feature.coverage" NAME="prime_benefits_boxes_hw4.feature Coverage Results" MODIFIED="1582935463861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$count.coverage" NAME="count Coverage Results" MODIFIED="1583013919415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/Lessson5" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__1_.coverage" NAME="Cancelling an order on Amazon (1) Coverage Results" MODIFIED="1580766494074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automation2flow$fire_tablets_menu_items_count_steps.coverage" NAME="fire_tablets_menu_items_count_steps Coverage Results" MODIFIED="1581875348504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
-    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature_Shopping_cart_is_empty_for_unidentified_user.coverage" NAME="Card_is_empty.feature:Shopping cart is empty for unidentified user Coverage Results" MODIFIED="1581221055230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$dress_color_feature.coverage" NAME="dress_color.feature Coverage Results" MODIFIED="1583212498229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$webstaurantstore.coverage" NAME="webstaurantstore Coverage Results" MODIFIED="1584292711386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/HW_6/steps" />
+    <SUITE FILE_PATH="coverage/automation2flow$photoframe_color_size_feature.coverage" NAME="photoframe_color_size.feature Coverage Results" MODIFIED="1583456684499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$bestsellers_loops_ids_feature.coverage" NAME="bestsellers_loops_ids.feature Coverage Results" MODIFIED="1584048198058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$webstaurantstore_feature.coverage" NAME="webstaurantstore.feature Coverage Results" MODIFIED="1584293543261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$fantasy_books_bestsellers_feature_User_can_see_bestsellers_searching_for_fantasy_books.coverage" NAME="fantasy_books_bestsellers.feature:User can see bestsellers searching for fantasy books Coverage Results" MODIFIED="1583339872948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$fire_tablets_menu_items_count_feature.coverage" NAME="fire_tablets_menu_items_count.feature Coverage Results" MODIFIED="1582305411893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Adding_product_to_the_cart_feature.coverage" NAME="Adding_product_to_the_cart.feature Coverage Results" MODIFIED="1581227204559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_hw4_feature.coverage" NAME="historic_books_bestsellers_hw4.feature Coverage Results" MODIFIED="1582957910171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$dress_color_feature_Check_every_dress_color_name.coverage" NAME="dress_color.feature:Check every dress color name Coverage Results" MODIFIED="1583214067582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$fantasy_bestsellers_lesson6_feature_Count_best_selers_books_on_page.coverage" NAME="fantasy_bestsellers_lesson6.feature:Count best selers books on page Coverage Results" MODIFIED="1583609003860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature.coverage" NAME="Card_is_empty.feature Coverage Results" MODIFIED="1583603016009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_l4_feature.coverage" NAME="prime_benefits_boxes_l4.feature Coverage Results" MODIFIED="1582587826754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$fire_tablets_menu_items_count_feature_User_can_see_all_menu_items_under_Fire_Tablets_menu.coverage" NAME="fire_tablets_menu_items_count.feature:User can see all menu items under Fire Tablets menu Coverage Results" MODIFIED="1582305568349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$fantasy_bestsellers_lesson6_feature.coverage" NAME="fantasy_bestsellers_lesson6.feature Coverage Results" MODIFIED="1583433955100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$closing_popup_feature_User_can_close_popups_from_main_page__https___heritagedoorsandwindows_com__.coverage" NAME="closing_popup.feature:User can close popups from main page 'https://heritagedoorsandwindows.com/' Coverage Results" MODIFIED="1582340335280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$historic_books_bestsellers_l4_feature_User_can_find_historic_books_through_the_search_.coverage" NAME="historic_books_bestsellers_l4.feature:User can find historic books through the search, Coverage Results" MODIFIED="1582912713946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$tooltip_feature.coverage" NAME="tooltip.feature Coverage Results" MODIFIED="1583689934428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Logged_out_user_sees_Sign_in_page_when_clicking_Orders.coverage" NAME="Logged out user sees Sign in page when clicking Orders Coverage Results" MODIFIED="1580699181017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation2flow$photoframe_color_size_feature_Check_every_size_option_for_photoframe_on_amazon.coverage" NAME="photoframe_color_size.feature:Check every size option for photoframe on amazon Coverage Results" MODIFIED="1583609866264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$tooltip_feature_Check_when_tooltip_will_hide.coverage" NAME="tooltip.feature:Check when tooltip will hide Coverage Results" MODIFIED="1583693081276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_l4_feature___There_is_5_prime_benefits_boxes_displayed_on_amazonprime_page.coverage" NAME="prime_benefits_boxes_l4.feature:# There is 5 prime benefits boxes displayed on amazonprime page Coverage Results" MODIFIED="1582417487554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$bestsellers_loops_ids_feature_Bestsellers_menu_loop.coverage" NAME="bestsellers_loops_ids.feature:Bestsellers menu loop Coverage Results" MODIFIED="1584116556329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_hw4_feature.coverage" NAME="prime_benefits_boxes_hw4.feature Coverage Results" MODIFIED="1582935463861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$1_win_handle_refresh_ids_feature.coverage" NAME="1_win_handle_refresh_ids.feature Coverage Results" MODIFIED="1583949656500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$1_win_handle_refresh_ids_feature_User_can_open_and_close_pages__cart_items_would_be_saved_in_memory.coverage" NAME="1_win_handle_refresh_ids.feature:User can open and close pages, cart items would be saved in memory Coverage Results" MODIFIED="1583952169924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature_Shopping_cart_is_empty_for_unidentified_user.coverage" NAME="Card_is_empty.feature:Shopping cart is empty for unidentified user Coverage Results" MODIFIED="1583603101657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$windows_handling_feature_User_can_open_and_close_Today_s_deals_under__25_update_scenario_name_.coverage" NAME="windows_handling.feature:User can open and close Today's deals under $25[update scenario name] Coverage Results" MODIFIED="1583857431319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$webstaurantstore_feature_User_can_search_for_product__find_products_that_include_search_name__add_product_to_the_cart__empty_the_cart.coverage" NAME="webstaurantstore.feature:User can search for product, find products that include search name, add product to the cart, empty the cart Coverage Results" MODIFIED="1584293097655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$Cancelling_an_order_on_Amazon__3_.coverage" NAME="Cancelling an order on Amazon (3) Coverage Results" MODIFIED="1580766474560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/automation2flow$Adding_product_to_the_cart_feature_Adding_product_to_the_cart.coverage" NAME="Adding_product_to_the_cart.feature:Adding product to the cart Coverage Results" MODIFIED="1581227394611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/automation2flow$amazon_search_good_feature_User_can_search_for_the_product.coverage" NAME="amazon_search_good.feature:User can search for the product Coverage Results" MODIFIED="1581208775522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$Card_is_empty_feature.coverage" NAME="Card_is_empty.feature Coverage Results" MODIFIED="1581221110891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$prime_benefits_boxes_l4_feature.coverage" NAME="prime_benefits_boxes_l4.feature Coverage Results" MODIFIED="1582587826754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/automation2flow$fire_tablets_menu_items_count_feature_User_can_see_all_menu_items_under_Fire_Tablets_menu.coverage" NAME="fire_tablets_menu_items_count.feature:User can see all menu items under Fire Tablets menu Coverage Results" MODIFIED="1582305568349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$2_loop_ids_feature_User_can_click_Bestsellers_categories_button_to_open_appropriate_page.coverage" NAME="2_loop_ids.feature:User can click Bestsellers categories button to open appropriate page Coverage Results" MODIFIED="1584048359669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/automation2flow$windows_handling_feature.coverage" NAME="windows_handling.feature Coverage Results" MODIFIED="1583794563175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

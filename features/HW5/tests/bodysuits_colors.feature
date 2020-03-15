@@ -1,6 +1,8 @@
 # Created by rev19 at 3/3/2020
-Feature: #Enter feature name here
+Feature: Dress color
   # Enter feature description here
 
-  Scenario: # Enter scenario name here
-    # Enter steps here
+  Scenario: Check every bodysuit color name
+    Given Open Amazon bodysuit page
+    When Get all bodysuit colors
+    Then Check every bodysuit color has description

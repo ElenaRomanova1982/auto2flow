@@ -40,7 +40,7 @@ def click_search_button(context):
 def count_search_result(context, expected_count):
     search_result_count = context.driver.find_elements(*SEARCH_RESULT_LOCATOR)
     print(len(search_result_count))
-    # assert len(search_result_count) == int(expected_count), f'Expected {expected_count}, but got {len(search_result_count)}'
+    assert len(search_result_count) == int(expected_count), f'Expected {expected_count}, but got {len(search_result_count)}'
 
 @then('Check how many books from search result has label "Best Seller"')
 def count_search_result(context):
@@ -52,27 +52,38 @@ def check_price(context, price):
     first_result = context.driver.find_elements(*SEARCH_RESULT_LOCATOR)[0]
     first_result_price = first_result.find_element(*PRICE_LOCATOR)
     context.compare_price = int(first_result_price.text) > int(price)
-
+    print(context.compare_price)
 
 
 @when('Open product page')
 def open_item_page(context):
-    name_of_the_item = context.driver.find_element(*SEARCH_RESULT_TITLE_LOCATOR)
-    name_of_the_item.click()
+    if context.compare_price == True:
+        name_of_the_item = context.driver.find_element(*SEARCH_RESULT_TITLE_LOCATOR)
+        name_of_the_item.click()
 
 @then('Add first item to the cart')
+def add_to_the_cart(context):
+    if context.compare_price == True:
+        add_to_cart_button = context.driver.find_element(*ADD_TO_CART_LOCATOR)
+        add_to_cart_button.click()
+        sleep(2)
+
+
+@when ('Search again')
+def repeat_search(context):
+    context.execute_steps(f'when Search for product {search_text}') # , f'when Click search button'
+
+
+@when('If last search result has label "Best Seller"')
+def check_label(context):
+    last_result = context.driver.find_elements(*SEARCH_RESULT_LOCATOR)[-1]
+    last_result_label = last_result.find_elements(*BEST_SELLER_LABEL)
+    context.check_label = len(last_result_label) > 0
+
+@then('Add last good to the cart')
 def add_to_the_cart(context):
     add_to_cart_button = context.driver.find_element(*ADD_TO_CART_LOCATOR)
     add_to_cart_button.click()
     sleep(2)
-
-
-
-
-
-#@when('If last search result has label "Best Seller"')
-
-
-#@then('Add last good to the cart')
 
 
